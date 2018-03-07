@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="pref_URL"
+        android:title="@string/pref_URL_Title"
+        android:summary="@string/pref_URL_Summary"
+        android:defaultValue="@string/pref_URL_Default"/>
+    <ListPreference
+        android:key="pref_lineCount"
+        android:title="@string/pref_lineCount_Title"
+        android:summary="@string/pref_lineCount_Summary"
+        android:entries="@array/pref_lineCount_Entries"
+        android:entryValues="@array/pref_lineCount_EntryValues"
+        android:defaultValue="@string/pref_lineCount_Default" />
+    <ListPreference
+        android:key="pref_updateInterval"
+        android:title="@string/pref_updateInterval_Title"
+        android:summary="@string/pref_updateInterval_Summary"
+        android:entries="@array/pref_updateInterval_Entries"
+        android:entryValues="@array/pref_updateInterval_EntryValues"
+        android:defaultValue="@string/pref_updateInterval_Default" />
+</PreferenceScreen>

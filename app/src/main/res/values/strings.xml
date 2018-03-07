@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">handin2</string>
+
+    <string name="ui_btn_settings_text">Settings</string>
+
+    <string name="pref_URL_Title">URL</string>
+    <string name="pref_URL_Summary">URL to fetch the RSS2.0 feed from.</string>
+    <string name="pref_URL_Default">https://xkcd.com/rss.xml</string>
+
+    <string name="pref_lineCount_Title">Buffer</string>
+    <string name="pref_lineCount_Summary">Number of entries to display.</string>
+    <string name="pref_lineCount_Default">10</string>
+
+    <string name="pref_updateInterval_Title">Update frequency</string>
+    <string name="pref_updateInterval_Summary">How often should the feed be updated.</string>
+    <string name="pref_updateInterval_Default">60</string>
 </resources>

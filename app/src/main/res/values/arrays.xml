@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_lineCount_Entries">
+        <item>10 lines</item>
+        <item>20 lines</item>
+        <item>50 lines</item>
+        <item>100 lines</item>
+    </string-array>
+    <string-array name="pref_lineCount_EntryValues">
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="pref_updateInterval_Entries">
+        <item>10 min</item>
+        <item>60 min</item>
+        <item>once a day</item>
+    </string-array>
+    <string-array name="pref_updateInterval_EntryValues">
+        <item>10</item>
+        <item>60</item>
+        <item>1440</item>
+    </string-array>
+
+
+</resources>
