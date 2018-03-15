@@ -14,4 +14,6 @@
     <string name="pref_updateInterval_Title">Update frequency</string>
     <string name="pref_updateInterval_Summary">How often should the feed be updated.</string>
     <string name="pref_updateInterval_Default">60</string>
+    <string name="toast_error_URL">Not a solvable url, change in settings</string>
+    <string name="toast_sucsess_URL">Getting feed for url</string>
 </resources>

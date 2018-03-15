@@ -13,7 +13,7 @@
         android:entryValues="@array/pref_lineCount_EntryValues"
         android:defaultValue="@string/pref_lineCount_Default" />
     <ListPreference
-        android:key="pref_updateInterval"
+        android:key="pref_update"
         android:title="@string/pref_updateInterval_Title"
         android:summary="@string/pref_updateInterval_Summary"
         android:entries="@array/pref_updateInterval_Entries"
